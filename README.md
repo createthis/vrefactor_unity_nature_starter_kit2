@@ -11,4 +11,6 @@ This example was made using Unity 2017.1. The example scene contains a SteamVR C
 - [VRWorks](https://www.assetstore.unity3d.com/#!/content/83505?aid=1100l35sb)
 
 # Patreon
-Do you want to see more free open source Unity projects like this on github? Support us on Patreon, today: [CreateThis Patreon Page](https://www.patreon.com/createthis)
+Do you want to see more free open source Unity projects like this on github?
+
+Support us on Patreon, today: [CreateThis Patreon Page](https://www.patreon.com/createthis)
