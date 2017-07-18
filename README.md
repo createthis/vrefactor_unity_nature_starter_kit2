@@ -5,3 +5,5 @@ This example was made using Unity 2017.1. The example scene contains a SteamVR C
 - [Vive Stereo Rendering Toolkit](https://www.assetstore.unity3d.com/#!/content/71255?aid=1100l35sb)
 - [Nature Starter Kit 2](https://www.assetstore.unity3d.com/#!/content/52977?aid=1100l35sb)
 - [VRWorks](https://www.assetstore.unity3d.com/#!/content/83505?aid=1100l35sb)
+
+NOTES about CPU spikes due to Culling when using Terrain: [unity forum thread](https://forum.unity3d.com/threads/unity-terrain-and-grass-cpu-spikes-in-terrain-data-buildpatchmesh.249089/)
