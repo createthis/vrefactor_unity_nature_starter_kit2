@@ -12,6 +12,7 @@ This example was made using Unity 2017.1. The example scene contains a SteamVR C
 
 # Performance NOTES
 There are nasty CPU spikes due to Culling when using Terrain: [unity forum thread](https://forum.unity3d.com/threads/unity-terrain-and-grass-cpu-spikes-in-terrain-data-buildpatchmesh.249089/)
+
 As far as I can tell this is a Terrain problem and is fairly well known.
 
 # Patreon
