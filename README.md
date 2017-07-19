@@ -3,6 +3,7 @@ This example was made using Unity 2017.1. The example scene contains a SteamVR C
 # Tutorial Video
 
 [![Youtube Video Overview](https://img.youtube.com/vi/45OqxsAdJ3I/0.jpg)](https://www.youtube.com/watch?v=45OqxsAdJ3I)
+[![Youtube Video Lens Matched Shading](https://img.youtube.com/vi/kCiRywpAFrg/0.jpg)](https://www.youtube.com/watch?v=kCiRywpAFrg)
 
 # Dependencies:
 - [SteamVR Plugin](https://www.assetstore.unity3d.com/#!/content/32647?aid=1100l35sb)
