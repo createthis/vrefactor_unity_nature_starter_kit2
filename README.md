@@ -1,8 +1,13 @@
 This example was made using Unity 2017.1. The example scene contains a SteamVR Camera Rig in a nature setting with a stereo mirror. It's a good scene for testing or demonstrating VR IK capabilities. Just add a character and IK.
 
-# Tutorial Video
+# Tutorial Videos
+
+Overview:
 
 [![Youtube Video Overview](https://img.youtube.com/vi/45OqxsAdJ3I/0.jpg)](https://www.youtube.com/watch?v=45OqxsAdJ3I)
+
+VRWorks Lens Matched Shading (LMS):
+
 [![Youtube Video Lens Matched Shading](https://img.youtube.com/vi/kCiRywpAFrg/0.jpg)](https://www.youtube.com/watch?v=kCiRywpAFrg)
 
 # Dependencies:
